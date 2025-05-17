@@ -1,0 +1,19 @@
+[
+    {
+        "id": "105d1bf789788bf6",
+        "type": "http in",
+        "z": "5764d7dfad750f31",
+        "name": "",
+        "url": "/alterar",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 450,
+        "y": 460,
+        "wires": [
+            [
+                "fb941caea7a70277"
+            ]
+        ]
+    }
+]
